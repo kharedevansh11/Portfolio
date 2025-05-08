@@ -1,9 +1,9 @@
 import React from 'react'
-import cineStream from "../assests/portfolio/cineStream.png";
-import urlShortner from "../assests/portfolio/urlShortner.png";
-import leetcodePage from "../assests/portfolio/leetcodePage.png"
-import codeChefPage from "../assests/portfolio/codeChefPage.png"
-import newsFlash from "../assests/portfolio/newsFlasher.png";
+import cineStream from "../assets/portfolio/cineStream.png";
+import urlShortner from "../assets/portfolio/urlShortner.png";
+import leetcodePage from "../assets/portfolio/leetcodePage.png"
+import codeChefPage from "../assets/portfolio/codeChefPage.png"
+import newsFlash from "../assets/portfolio/newsFlasher.png";
 import { FaGithub } from "react-icons/fa";
 
 const ProjectCard = ({

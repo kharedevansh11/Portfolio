@@ -1,11 +1,11 @@
 import React from 'react'
-import myself from "../assests/heroImage.png"
+import myself from "../assets/heroImage.png"
 import { FaArrowRightLong } from "react-icons/fa6";
 import { Link } from "react-scroll";
 
 const Home = () => {
     return (
-        <div name="home" className="h-screen w-full bg-gradient-to-b from-[#050e1d] via-[#050e1d] to-gray-800 " >
+        <div name="home" className="h-screen w-full bg-gradient-to-b from-[#050e1d] via-[#050e1d] to-gray-800 pt-20 md:pt-0" >
 
             <div className='max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row'>
 
