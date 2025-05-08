@@ -33,7 +33,7 @@ const SocialLinks = () => {
         Leetcode <SiLeetcode size={30}/>
           </> 
             ),
-            href:"https://leetcode.com/devansh1677",
+            href:"https://leetcode.com/devansh2788",
             style: { backgroundColor: "rgb(40 40 40" }
 
         },
