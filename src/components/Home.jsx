@@ -13,7 +13,7 @@ const Home = () => {
                     <p className=' text-pink-600'>Hi, my name is</p>
                     <h1 className='text-4xl sm:text-7xl font-bold text-white'>Devansh Khare</h1>
 
-                    <h2 className="text-3xl sm:text-6xl font-bold text-[#8892b0]">I'm a full stack developer</h2>
+                    <h2 className="text-3xl sm:text-6xl font-bold text-[#8892b0]">I'm a Software developer</h2>
 
                     <p className="text-gray-500 py-4 max-w-md">
                         Passionate software developer with a strong hold on Data Structures and Algorithms and solid command over core computer fundamentals. I enjoy solving challenging problems and writing clean, efficient code. I’m a quick learner who loves exploring new concepts and applying them to build smart and reliable solutions.
